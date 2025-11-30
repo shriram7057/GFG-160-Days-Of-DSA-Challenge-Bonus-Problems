@@ -77,7 +77,3 @@ Contributions are welcome! Feel free to:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
 
 </div>
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
