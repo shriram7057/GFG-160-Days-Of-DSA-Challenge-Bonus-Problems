@@ -38,7 +38,7 @@ This repository is a personal commitment to mastering DSA through consistent pra
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language**: Python 🐍  
 - **Platform**: GeeksforGeeks  
