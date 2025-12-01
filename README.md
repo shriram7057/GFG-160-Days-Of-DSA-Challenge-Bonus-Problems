@@ -44,10 +44,6 @@ This repository is a personal commitment to mastering DSA through consistent pra
 - **Platform**: GeeksforGeeks  
 - **Tools**: Git, GitHub, VS Code
 
----
-
----
-
 ## ⭐ Badges
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
